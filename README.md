@@ -8,8 +8,7 @@
   提供可用jugugu测试网服务例子程序，可以直接通过git 该例子程序完成区块链账户地址生成与区块链交互
   ## SDK 函数详情请参考我的GitHub
   ##  https://github.com/doxulovezh/blockchaincommon-go-sdk
-  <code>
-  
+  `
   package main
 
 // https://github.com/doxulovezh/blockchaincommon-go-sdk
@@ -24,7 +23,6 @@
 
 import (
 	"fmt"
-
 	bcc "github.com/doxulovezh/blockchaincommon-go-sdk"
 )
 
@@ -46,6 +44,6 @@ func main() {
 	}
  }
   
-  </code>
+ `
 # pice-server
   秒分片存储服务（单服务器模式）
