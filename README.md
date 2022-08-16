@@ -8,7 +8,7 @@
   提供可用jugugu测试网服务例子程序，可以直接通过git 该例子程序完成区块链账户地址生成与区块链交互
   ## SDK 函数详情请参考我的GitHub
   ##  https://github.com/doxulovezh/blockchaincommon-go-sdk
- ```
+ ```go
   package main
 
 // https://github.com/doxulovezh/blockchaincommon-go-sdk
